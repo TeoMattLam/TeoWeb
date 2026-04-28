@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="173.248" cy="305.591" rx="78.344" ry="109.554"/>
+  <rect x="53.184" width="393.631" height="189.809" style="fill: rgb(216, 216, 216); stroke: rgb(216, 216, 216);" rx="36.943" ry="36.943" y="285.191"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="172.293" cy="130.432" rx="60" ry="60"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Boldonse; font-size: 28px; white-space: pre;" transform="matrix(9.645617, 0, 0, 8.551398, -2448.593994, -732.165771)" x="283.439" y="126.61">?</text>
+  <defs>
+    <style bx:fonts="Boldonse">@import url(https://fonts.googleapis.com/css2?family=Boldonse%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+</svg>
