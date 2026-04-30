@@ -15,7 +15,7 @@
     const props = defineProps(["name", "description"])
 
     const name = props.name
-    const icon = ref("./public/icons/" + name + ".svg")
+    const icon = ref("/public/icons/" + name + ".svg")
     const to = ref("/projects/" + name)
 
     const description = props.description

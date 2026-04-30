@@ -6,9 +6,6 @@ import { RouterView } from 'vue-router';
 <template>
   <header><h1><RouterLink to="/">TeoMatt</RouterLink></h1></header>
   <main>
-    <p>
-      14 years old italian developer.
-    </p>
     <RouterView/>
   </main>
   <footer>
@@ -18,9 +15,3 @@ import { RouterView } from 'vue-router';
       </div>
   </footer>
 </template>
-
-<style scoped>
-  p {
-    text-align: center;
-  }
-</style>

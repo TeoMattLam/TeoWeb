@@ -18,4 +18,10 @@ const router = createRouter({
     ]
 })
 
+router.beforeEach((to, from, next) => {
+  document.title = "TeoMatt - " + to.name;
+  next();
+});
+
+
 createApp(App).use(router).mount('#app')

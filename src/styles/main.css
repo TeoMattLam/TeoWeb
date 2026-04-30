@@ -58,3 +58,14 @@ p {
         color: white;
     }
 }
+
+#how-to-use {
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    font-size: 20px;
+    margin-left: 70px;
+    margin-right: 50px;
+}

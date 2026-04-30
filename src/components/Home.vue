@@ -3,6 +3,9 @@
 </script>
 
 <template>
+    <p>
+      14 years old italian developer.
+    </p>
     <div class="cards-container">
         <ProjectCard name="Impostor" description="An offline game to play with friends."/>
         <ProjectCard name="TrackTab" description="A program that lets you use your trackpad as a drawing tablet."/>
@@ -17,5 +20,9 @@
     justify-content: center;
     margin: 20px;
     gap: 20px;
+  }
+
+  p {
+    text-align: center;
   }
 </style>
