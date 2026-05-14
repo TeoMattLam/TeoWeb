@@ -4,7 +4,7 @@ import Version from '../Version.vue';
 </script>
 
 <template>
-    <Version version="1.2 (latest)" file-type=".apk" file="/files/Impostor1.2.apk" icon-class="fa-brands fa-android"/>
+    <Version version="1.2 (latest)" file-type=".apk" file="/TeoWeb/files/Impostor1.2.apk" icon-class="fa-brands fa-android"/>
     <p>
         I'm not the one who invented the game. It works like this: every player gets the same word, except for the impostor, who doesn't know it. Every player says a word correlated to the initial word and the impostor has to guess the word based on what the other players say. After two turns the players vote to kick someone out. If they guess who the impostor is, the impostor can only win if they guess the word.
     </p>

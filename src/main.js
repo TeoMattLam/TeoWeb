@@ -9,7 +9,7 @@ import TrackTab from './components/project_pages/TrackTab.vue'
 import RandoClasser from './components/project_pages/RandoClasser.vue'
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHistory('/TeoWeb/'),
     routes: [
         { path: "/", name: "Home", component: Home},
         { path: "/projects/impostor", name: "Impostor", component: Impostor},

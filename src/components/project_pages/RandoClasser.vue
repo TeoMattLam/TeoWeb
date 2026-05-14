@@ -4,8 +4,8 @@ import Version from '../Version.vue';
 </script>
 
 <template>
-    <Version version="3.0.1 (latest)" file-type=".zip (archive)" file="/files/RandoClasser3.0.1.zip" icon-class="fa-brands fa-windows"/>
-    <Version version="3.0" file-type=".zip (archive)" file="/files/RandoClasser3.0.zip" icon-class="fa-brands fa-windows"/>
+    <Version version="3.0.1 (latest)" file-type=".zip (archive)" file="/TeoWeb/files/RandoClasser3.0.1.zip" icon-class="fa-brands fa-windows"/>
+    <Version version="3.0" file-type=".zip (archive)" file="/TeoWeb/files/RandoClasser3.0.zip" icon-class="fa-brands fa-windows"/>
     <p>
         RandoClasser is a random seating plan generator for school classes. It is made in Kotlin and it is temporarily only available for Windows.
         It features:

@@ -4,7 +4,7 @@ import Version from '../Version.vue';
 </script>
 
 <template>
-    <Version version="1.0 (latest)" file-type=".zip (archive)" file="/files/TrackTab1.0.zip" icon-class="fa-brands fa-windows"/>
+    <Version version="1.0 (latest)" file-type=".zip (archive)" file="/TeoWeb/files/TrackTab1.0.zip" icon-class="fa-brands fa-windows"/>
     <p>
         This is highly experimental. TrackTab is a program that lets you use your laptop's trackpad as a drawing tablet by tracking your finger's coordinates
         and moving the mouse cursor to the same coordinates on the screen. I still have a lot to test. It's also pretty unpractical, but it does the job if you have
