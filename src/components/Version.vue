@@ -14,6 +14,8 @@
     function downloadFile() {
         window.open(props.file)
     }
+
+    console.log(props.file)
 </script>
 
 <style scoped>

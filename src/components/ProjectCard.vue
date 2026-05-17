@@ -10,15 +10,14 @@
 </template>
 
 <script setup>
-    import { ref } from 'vue'
-
     const props = defineProps(["name", "description"])
 
     const name = props.name
-    const icon = ref("/TeoWeb/public/icons/" + name + ".svg")
-    const to = ref("/projects/" + name)
+    const icon = "/TeoWeb/icons/" + name.toLowerCase() + ".svg"
+    const to = "/projects/" + name
 
     const description = props.description
+    console.log(icon)
 </script>
 
 <style scoped>
