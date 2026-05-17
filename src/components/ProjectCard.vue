@@ -17,7 +17,6 @@
     const to = "/projects/" + name
 
     const description = props.description
-    console.log(icon)
 </script>
 
 <style scoped>
