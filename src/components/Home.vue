@@ -4,7 +4,7 @@
 
 <template>
     <p>
-      14 years old italian developer.
+      15 years old italian developer.
     </p>
     <div class="cards-container">
         <ProjectCard name="Impostor" description="An offline game to play with friends."/>
